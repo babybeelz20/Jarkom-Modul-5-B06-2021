@@ -12,7 +12,7 @@ Tugas pertama kalian yaitu membuat topologi jaringan sesuai dengan rancangan yan
 
 ### Topology
 
-![topology](https://github.com/yanzkosim/Jarkom-Modul-5-B06-2021/blob/main/screenshot/topologi.png)
+![topology](https://github.com/babybeelz20/Jarkom-Modul-5-B06-2021/blob/main/screenshot/topologi.png)
 
 Keterangan : 	
 - Doriki adalah DNS Server
