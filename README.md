@@ -59,7 +59,7 @@ Setelah IP dibagi, kemudian dibuat tree pembagian untuk mempermudah dalam mencar
 
 Dari NID dan netmask yang diperoleh dari tree, dibuat tabel pembagian IP berikut
 
-![pembagian IP](https://github.com/babybeelz20/Jarkom-Modul-5-B06-2021/blob/main/screenshot/pembagian_ip.jpeg)
+![pembagian IP](https://github.com/babybeelz20/Jarkom-Modul-5-B06-2021/blob/main/screenshot/pembagianIP.jpeg)
 
 ### **C**
 
