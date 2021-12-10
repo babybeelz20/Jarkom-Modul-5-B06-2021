@@ -40,6 +40,7 @@ options {
 
         auth-nxdomain no;    # conform to RFC1035
         listen-on-v6 { any; };
+}
 ```
 
 ### **B**
@@ -50,7 +51,7 @@ Luffy ingin meminta kalian untuk membuat topologi tersebut menggunakan teknik CI
 
 Pertama-tama adalah menentukan subnet yang ada pada topologi. IP dibagi dengan menggunakan teknik VLSM dengan pembagian subnet sebagai berikut
 
-![pembagian subnet](https://github.com/babybeelz20/Jarkom-Modul-5-B06-2021/blob/main/screenshot/subnetting.jpeg)
+![pembagian subnet](https://github.com/babybeelz20/Jarkom-Modul-5-B06-2021/blob/main/screenshot/subnetting.png)
 
 Setelah IP dibagi, kemudian dibuat tree pembagian untuk mempermudah dalam mencari NID tiap subnetnya
 
